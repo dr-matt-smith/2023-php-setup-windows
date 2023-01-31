@@ -1,0 +1,3 @@
+Download latest compatible version (usually the 64 version) from hjere
+https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170
+
