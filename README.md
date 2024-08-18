@@ -62,7 +62,7 @@ Test your PHP installation as follows:
 - type: `php -v`
 - if you just see the PHP version message appear, all is good
 
-however, if (as happened on one of my laptops, with new Windows 10 install) a "php.eve - System Error" dialog popups, then you may need to install a Visual C++ runtime DLL library. Download latest compatible version (usually the 64 version) from here
+however, if (as happened on one of my laptops, with new Windows 10 install) a "php.exe - System Error" dialog popups, then you may need to install a Visual C++ runtime DLL library. Download latest compatible version (usually the 64 version) from here
 - [https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 ![System error if missing VC runtime DLL.](images/99_windows10_vc_runtime_DLL.png)
 
